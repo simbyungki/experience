@@ -4,7 +4,6 @@
 ***
 
 ## 경험
-> - Classbowl(취미생활 공유 플랫폼) (PC, Mobile) (UI개발, 100% 참여)
 > - TOZ Study Center 회원가입 자동화 시스템 (PC, 태블릿 대응) (UI개발, 100% 참여)
 > - 클래스볼(문화강좌모임플랫폼) 웹사이트 (PC, Mobile) 구축 (UI개발, 100% 참여)
 > - LG U+Shop 서비스 운영 UI개선 작업
@@ -12,6 +11,7 @@
 > - LG U+Shop 웹퍼블리싱 운영파트 관리 
 > - SAMSUNG Galaxy Note9 사전예약 (U+Shop)
 > - LG G7 ThinQ 사전예약 (마이크로 사이트)
+> - 애니멘토 웹사이트 (PC, Mobile) 구축 (UI개발, 100% 참여)
 > - U+Shop 홈서비스 메인, 휴대폰 목록 / 상세 개선
 > - 서울시 자원봉사센터 웹사이트 리뉴얼 구축 (UI개발, 100% 참여)
 > - 스타펙(온라인 오디션 서비스) Hybrid App(app web) (UI개발, 100% 참여)
