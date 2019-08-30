@@ -4,8 +4,10 @@
 ***
 
 ## 경험
+> - LG V50 사전예약 마이크로사이트 (매장용)
+> - SAMSUNG Galaxy Fold 사전예약 마이크로사이트 (매장용)
 > - LG U+ 글로벌로밍 선불유심 등록 5개국어 (모바일) (UI개발, 100% 참여)
-> - SAMSUNG Galaxy Note10 사전예약 (매장용)
+> - SAMSUNG Galaxy Note10 사전예약 마이크로사이트 (매장용)
 > - TOZ Study Center 회원가입 자동화 시스템 (PC, 태블릿 대응) (UI개발, 100% 참여)
 > - 클래스볼(문화강좌모임플랫폼) 웹사이트 (PC, Mobile) 구축 (UI개발, 100% 참여)
 > - LG U+Shop 서비스 운영 UI개선 작업
