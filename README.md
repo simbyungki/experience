@@ -4,6 +4,7 @@
 ***
 
 ## 경험
+> - 오토플러스 1.0 통합사이트 구축 (PC/Mobile) (UI개발, 100% 참여)
 > - 옵션 선택형 중고차 구입 UI (UI개발, 100% 참여)
 > - <a href="https://simbyungki.github.io/ui_modules/car_state.html">중고차 상태 관리 UI</a> (UI개발, 100% 참여)
 > - 하나카드 GMH(Global Must Have) 고도화 프로젝트 (모바일) (UI개발, 65% 참여)
