@@ -1,9 +1,10 @@
 # 심병기 Sim Byungki
-**UI Developer / Web Publisher : HTML, CSS, Javascript(jQuery)**
+**UI Developer / Web Publish : HTML, CSS, Javascript(jQuery) / Web Develop : Python, Django, MariaDB **
 
 ***
 
 ## 경험
+> - <a href="https://simbyungki.github.io/gantt_chart_ui/html/gant_chart_archive.html">간트차트 UI</a> 제작 (UI개발, 100%)
 > - 오토플러스 1.0 통합사이트 구축 (PC/Mobile) (UI개발, 100% 참여)
 > - 옵션 선택형 중고차 구입 UI (UI개발, 100% 참여)
 > - <a href="https://simbyungki.github.io/ui_modules/car_state.html">중고차 상태 관리 UI</a> (UI개발, 100% 참여)
